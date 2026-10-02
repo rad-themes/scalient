@@ -1,0 +1,9 @@
+{
+  "title": "Services",
+  "template": "services-detail",
+  "layout": "layout",
+  "route": "{mount}/{slug}",
+  "mount": "5a73a10d-246e-5079-934a-40e4fde1a323",
+  "date": false,
+  "revisions": false
+}

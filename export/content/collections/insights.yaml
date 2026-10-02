@@ -1,0 +1,9 @@
+{
+  "title": "Insights",
+  "template": "insights-detail",
+  "layout": "layout",
+  "route": "{mount}/{slug}",
+  "mount": "6812f6fd-004c-551b-ab6b-af2fc576840e",
+  "date": false,
+  "revisions": false
+}

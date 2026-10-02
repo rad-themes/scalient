@@ -1,0 +1,9 @@
+{
+  "title": "Work",
+  "template": "cases-detail",
+  "layout": "layout",
+  "route": "{mount}/{slug}",
+  "mount": "55de7edd-a369-5066-be55-6b66c068dbe6",
+  "date": false,
+  "revisions": false
+}
