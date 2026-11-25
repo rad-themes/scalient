@@ -1,5 +1,5 @@
 {
-    "name": "rad-themes/statamic-scalient",
+    "name": "rad-themes/scalient",
     "description": "A growth agency and creative portfolio starter kit for Statamic by Rad Themes.",
     "type": "statamic-starter-kit",
     "license": "proprietary",
@@ -17,7 +17,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/rad-themes/statamic-scalient/issues"
+        "issues": "https://github.com/rad-themes/scalient/issues"
     },
     "require": {
         "php": "^8.3",
